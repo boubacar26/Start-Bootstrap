@@ -1,0 +1,167 @@
+header{
+    color: white;
+    background-image: url(Images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header nav span{
+    color: yellow;
+    font-style: italic;
+}
+
+header nav .nav-link{
+    color: white;
+}
+
+header h1{
+    margin-top: 20%;
+    font-style: italic;
+    font-weight: normal;
+}
+
+header h2{
+    font-weight: bold;
+    font-size: 4.5rem;
+    margin-bottom: 5%;
+}
+
+header .btn-warning{
+    /* margin: 0 42%; */
+    color: #fff;
+    background-color: rgb(255, 220, 23);
+    border: none;
+    padding: 15px 25px;
+    margin-bottom: 10%;
+}
+
+/*-------------------- Section SERVICES ----------------------*/
+
+section h3{
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+section h4{
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: italic;
+    color: gray;
+}
+
+#services i{
+    color: white;
+    font-size: 50px;
+    padding: 8%;
+    background-color: rgb(255, 220, 23);
+    border-radius: 50%;
+}
+
+#services h5{
+    font-size: 1.5rem;
+}
+
+#services p{
+    color: gray;
+}
+
+/*-------------------- Section PORTFOLIO ----------------------*/
+
+#portfolio{
+    background-color: #f4f7fd;
+}
+
+#portfolio .card p{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+#portfolio .card span{
+    font-weight: normal;
+    font-style: italic;
+    color: gray;
+    font-size: 18px;
+}
+
+
+/*-------------------- Section TEAM ----------------------*/
+
+#team{
+    background-color: #f4f7fd;
+}
+
+#team img{
+    width: 225px;
+    border-radius: 50%;
+    border: 7px solid #8080805c;
+}
+
+#team h5{
+    font-weight: bold;
+    margin-top: 5%;
+}
+
+#team h6{
+    font-weight: normal;
+    color: gray;
+}
+
+#team .icone{
+    display: flex;
+    justify-content: center;
+}
+
+i{
+    font-size: 30px;
+    margin-right: 2%;
+}
+
+#team p{
+    width: 70%;
+    margin: 5% auto;
+}
+
+
+/*-------------------- Section LOGO ----------------------*/
+
+#logo{
+    justify-content: space-between;
+    padding-bottom: 5%;
+}
+
+#logo img{
+    width: 23%;
+    height: 50px;
+}
+
+
+/*-------------------- Section CONTACT ----------------------*/
+
+#contact{
+    background-image: url(Images/map.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#contact input{
+    padding: 4%;
+}
+
+#contact .test{
+    margin-top: 5%;
+}
+
+/*---------------------- Footer ----------------------*/
+
+footer a{
+    color: black;
+    text-decoration: none;
+    font-weight: lighter;
+    margin: 0 5px;
+}
+
+footer i{
+    margin: 0 5px;
+}

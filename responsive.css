@@ -1,0 +1,26 @@
+@media screen and (max-width:768px) {
+    .navbar-toggler-icon{
+        background-color: gray;
+    }
+
+    #logo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #logo img{
+        width: 60%;
+        margin: 5% 0;
+    }
+
+    #contact .msg{
+        padding: 0;
+    }
+
+    footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
