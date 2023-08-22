@@ -35,6 +35,18 @@ header .btn-warning{
     margin-bottom: 10%;
 }
 
+header .navbar a:hover{
+    color: rgb(255, 220, 23);
+}
+
+header .navbar a:active{
+    color: rgb(255, 220, 23);
+}
+
+header .navbar a:focus{
+    color: rgb(255, 220, 23);
+}
+
 /*-------------------- Section SERVICES ----------------------*/
 
 section h3{
