@@ -139,7 +139,8 @@ i{
 /*-------------------- Section CONTACT ----------------------*/
 
 #contact{
-    background-image: url(Images/map.png);
+    background-color: #212529;
+    background-image: url(Images/map-image.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
